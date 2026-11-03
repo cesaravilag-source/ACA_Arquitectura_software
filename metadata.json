@@ -1,0 +1,6 @@
+{
+  "name": "SGA Campus - Sistema de Gestión Académica",
+  "description": "Sistema de Gestión Académica (SGA) para educación superior con arquitectura en capas, control estricto de cruces de horarios docentes, matrícula de asignaturas, calificaciones y auditoría.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
